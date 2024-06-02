@@ -30,7 +30,7 @@ author:
   #uri              : #URL
   email            : "mirshahzad2012@gmail.com" 
 
-  Scholar
+  Scholar:
   #arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=VeyHCiEAAAAJ&hl=en"
   #impactstory     : # URL
@@ -39,7 +39,7 @@ author:
   #pubmed          : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Shahzad-Ahmed-12"
 
-  Development
+  Development:
   #bitbucket        : # Username - Update with your username on the site
   #codepen          : # Username
   #dribbble         : # Username
@@ -47,14 +47,14 @@ author:
   #kaggle           : # Username  
   #stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
-  Hire me
+  Hire me:
   upwork           : "https://www.upwork.com/freelancers/~019452ef076435b2d0"
   fiverr           : "https://www.fiverr.com/mirshahzad007"
   
   Appointment
   calendly         : "https://calendly.com/mirshahzad"
 
-  Social media
+  Social media:
   #bluesky          : #"bsky.app" # Replace this with you Bluesky username
   linkedin         : "https://www.linkedin.com/in/mirshahzad"
   medium           : "https://mirshahzad.medium.com/"
