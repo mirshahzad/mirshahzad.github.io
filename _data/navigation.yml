@@ -1,22 +1,28 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "Research / Academic Profile"
     url: /publications/
 
-  - title: "Talks"
+  - title: "Work Profile"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "Education"
     url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "Courses and Certificates"
     url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "Scholarships and Awards"
     url: /year-archive/
     
-  - title: "CV"
+  #- title: "CV"
     url: /cv/
     
-  - title: "Guide"
+  - title: "Consultation / Hire me"
     url: /markdown/
+
+- title: "Failures"
+    #url: /markdown/ "Please insert page and add here instead of "/markdown/""
+
+- title: "Current Activity"
+    #url: /markdown/ "Please insert page and add here instead of "/markdown/""
