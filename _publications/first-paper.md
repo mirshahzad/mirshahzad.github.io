@@ -1,11 +1,10 @@
 ---
 title: "Comparative Analysis of Cryptographic Algorithms in Context of Communication: A Systematic Review"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /_publications/first-paper
 excerpt: 'A comparative analysis of cryptographic algorithms in context of communication.'
 date: July, 2022
 venue: 'International Journal of Scientific and Research Publications (ISSN 2250-3153)'
-
 paperurl: 'https://www.researchgate.net/publication/362235088_Comparative_Analysis_of_Cryptographic_Algorithms_in_Context_of_Communication_A_Systematic_Review'
 citation: 'Ahmed Shahzad, and Tauseef Ahmed. "Comparative analysis of cryptographic algorithms in context of communication: A systematic review." International Journal of Scientific and Research Publications 12.7 (2022): 161-173.'
 ---
