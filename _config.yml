@@ -163,10 +163,10 @@ exclude:
   - .sass-cache
   - CHANGELOG
   - Capfile
-  - Gemfile
+  # - Gemfile
   - Gruntfile.js
-  - LICENSE
-  - README
+  # - LICENSE
+  # - README
   - Rakefile
   - assets/js/_main.js
   - assets/js/plugins
@@ -175,7 +175,7 @@ exclude:
   - gulpfile.js
   - log
   - node_modules
-  - package.json
+  # - package.json
   - tmp
   - vendor
 keep_files:
