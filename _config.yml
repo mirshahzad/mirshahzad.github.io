@@ -23,15 +23,15 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Shahzad A."
-  #pronouns         : # example: "she/her"  
+  #pronouns        : # example: "she/her"  
   bio              : "Information Security Specialist | Researcher | Writer"
-  location         : "Islamabad, Pakistan"
-  #employer         : #"Red Brick University"
-  #uri              : #URL
+  #location        : "Islamabad, Pakistan"
+  #employer        : #"Red Brick University"
+  uri              : URL
   email            : "mirshahzad2012@gmail.com" 
 
 #scholar:
-  #arxiv            : # URL - Update with the correct link to your profile
+  #arxiv           : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=VeyHCiEAAAAJ&hl=en"
   #impactstory     : # URL
   #orcid           : "http://orcid.org/yourorcidurl"
