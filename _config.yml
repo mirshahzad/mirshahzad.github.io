@@ -158,18 +158,13 @@ include:
   - LICENSE
   - README
   - package.json
-exclude:
-  - "*.sublime-project"
-  - "*.sublime-workspace"
   - .asset-cache
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
   - CHANGELOG
   - Capfile
-  
   - Gruntfile.js
-  
   - Rakefile
   - assets/js/_main.js
   - assets/js/plugins
@@ -178,9 +173,14 @@ exclude:
   - gulpfile.js
   - log
   - node_modules
-  
   - tmp
   - vendor
+# exclude:
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  
+  
+  
 keep_files:
   - .git
   - .svn
