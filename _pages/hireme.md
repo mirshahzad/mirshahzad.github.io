@@ -4,6 +4,8 @@ title: "Hire me"
 permalink: /hireme/
 author_profile: true
 ---
+I am available to work with you on security and research related projects.\
+
 Upwork
 ---
 [Please click here to hire me on Upwork](https://www.upwork.com/freelancers/mirshahzad){:target="_blank"}
