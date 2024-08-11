@@ -1,20 +1,39 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
 
-  - title: "Work Profile"      # Previously "Talks"
-    url: /work/    
+  - title: "Work Profile"
+    url: /workprofile/
 
-  - title: "Research Profile"         # Previously "Teaching"
-    url: /research/    
-    
-  - title: "Projects"          # Previously "Portfolio"
-    url: /projects/
-        
-  - title: "Hire me"       # Previously "Blog Posts"
-    url: /year-archive/
-    
+  - title: "Research Profile"
+    url: /researchprofile/
+
+  - title: "Education"
+    url: /education/
+  
+  - title: "Courses"
+    url: /courses/  
+
+  - title: "Scholarships and Awards"
+    url: /scholarshipsandawards/
+
+  - title: "Hire me"
+    url: /hireme/  
+
+#  - title: "Publications"
+#    url: /publications/
+
+#  - title: "Work Profile"      # Previously "Talks"
+#    url: /work/    
+
+#  - title: "Research Profile"         # Previously "Teaching"
+#    url: /research/ 
+
+#  - title: "Projects"          # Previously "Portfolio"
+#    url: /projects/
+
+#  - title: "Hire me"       # Previously "Blog Posts"
+#    url: /year-archive/
+
 #  - title: "CV"
 #    url: /cv/
     
