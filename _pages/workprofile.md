@@ -9,7 +9,7 @@ I have over three years of mixed research and industry experience in information
 1 - INFORMATION SECURITY SPECIALIST
 ---
 May 2020 - Present \
-Location: "Remote" 
+Location: Remote 
 - I have been involved as a Risk Analyst (remotely) with a Sr. Cybersecurity Consultant (UK-based) on various risk management projects.
 - Furthermore, I am engaged working as an Information Security Specialist with different organizations, and a freelancer on Upwork and Fiverr (I’m Top-Rated on Upwork).
 - I have worked as a Cybersecurity Specialist and a Researcher at Temple Logiq (a US-based startup) for one year.

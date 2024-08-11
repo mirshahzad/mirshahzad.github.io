@@ -16,7 +16,15 @@ My research paper titled "*Comparative analysis of cryptographic algorithms in c
 - I am also open for collaborative research projects.
 
 
-***Let's connect and grow your business!***
+***Let's connect and grow together!***
+
+Current Activities:
+---
+**Self Development**
+- Preparing for CompTIA Security + 
+- Looking for a PhD opportunity in Security and Privacy in context of Digital Health.
+- Reading Book "Crime and Punishment" by Fyodor Dostovesky
+
 
 Failures:
 ---
