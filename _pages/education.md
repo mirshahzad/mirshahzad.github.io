@@ -5,7 +5,7 @@ permalink: /education/
 author_profile: true
 ---
 
-Master in Information Security
+Master of Information Security
 ---
 ITMO University, St. Petersburg, Russia \
 Sep 2018 - Aug 2020 \
