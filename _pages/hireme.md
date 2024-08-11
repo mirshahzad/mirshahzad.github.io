@@ -4,7 +4,9 @@ title: "Hire me"
 permalink: /hireme/
 author_profile: true
 ---
-I am available to work with you on security and research related projects.\
+I am available to work with you on security and research related projects.
+
+Let's work together and grow together!
 
 Upwork
 ---
