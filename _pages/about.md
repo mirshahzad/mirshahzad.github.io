@@ -12,7 +12,7 @@ I am an information security specialist with over three years of industry and ac
 My research paper titled "*Comparative analysis of cryptographic algorithms in context of communication: A systematic review*" was published in International Journal of Scientific and Research Publications on July 7, 2022.
 
 - I am currently available for a **junior-level Information Security position** on remote basis (full-time, part-time, and/or project/task-based), 
-- I am actively looking for a **Ph.D. opportunity in Privacy and Security in context of digital health** to continue my study.
+- I am actively looking for a **Ph.D. opportunity in Privacy and Security** to continue my study.
 - I am also open for collaborative research projects.
 
 
