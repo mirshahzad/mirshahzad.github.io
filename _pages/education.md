@@ -22,7 +22,7 @@ Courses studied:
 - Computer Networks II – Advanced Features
 - Seminar on Software Systems, Technologies, and Security Mobile Systems Security
 - Data Processing and Analysis Applied Artificial Intelligence Research Methodology Negotiation
-- Thesis topic: Research and Comparative Analysis of mutual authentication protocol for IoV network \
+- Thesis topic: Research and Comparative Analysis of mutual authentication protocol for IoV network
 
 Website: https://en.itmo.ru/
 
