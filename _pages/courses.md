@@ -38,3 +38,17 @@ I have attended different courses, the details of the courses are available belo
 (April 2020)
 16. **Introduction to Git and Github** | Authorized by Google and offered through Coursera
 (March 2020)
+
+
+
+
+Failures:
+---
+1. My first manuscript was rejected seven times for publication. \
+   **Lesson Learned:** Always open for improvement, and be consistent, and positive.
+
+2. One time failed to get admission in the Master's program \
+   **Lesson Learned:** Do homework before applying.
+
+3. In the first year of the Bachelor of Commerce program, I did not pass one course. \
+   **Lesson Learned:** Be positive - Be strong - Be hopeful - Belief in yourself, you will get first division, no matter if you did not pass one course in the first year, you will pass it with excellent numbers.
