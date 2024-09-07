@@ -40,7 +40,7 @@ AS A PEER REVIEWER
 ---
 **Journals:**\
 [1] International Journal of Communication Systems\
-[2] The Computer Journal by Oxford Academic\
+[2] The Computer Journal by Oxford Academic
 
 **Conferences:**\
 [1] Hawaii International Conference on System Sciences
