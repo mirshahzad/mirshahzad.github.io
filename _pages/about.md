@@ -25,3 +25,4 @@ Current Activities:
 - Preparing for CompTIA Security + 
 - Reading Book "The Idiot" by Fyodor Dostovesky
 - Reading Book "The General of The Dead Army" by Ismail Kadare
+- Voluntarily mentoring security students, and reviewing their portfolio website and resume to grow professionally.
