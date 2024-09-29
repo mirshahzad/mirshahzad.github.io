@@ -13,7 +13,8 @@ My research paper titled "*Comparative analysis of cryptographic algorithms in c
 
 - I am currently available for an **information security specialist position** on remote basis (full-time, part-time, or project/task-based). 
 - I am actively looking for a **Ph.D. opportunity in Privacy and Security** to continue my study.
-- I am also open for collaborative research projects.
+- I am open for collaborative research projects.
+- I am available for Talks, Seminars, Conferences, and Security Events.
 
 
 ***Let's connect and grow together!***
