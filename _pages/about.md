@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-**About me**
+**About me**\
 I am an information security specialist with over four years of diverse experience in both industry and academia, working on multiple projects with different clients. 
 
 I hold a master’s degree in information security from ITMO University, Saint Petersburg, Russia (through a competitive subject-based Russian Government Scholarship). I have published my “Comparative Analysis of Cryptographic Algorithms in the Context of Communication” research paper in an international journal. I have contributed to two significant collaborative research projects: one with renowned Prof. Mauro Conti focusing on AI-DLT-based healthcare applications, and another with Prof. Tauseef Ahmed, resulting in a first-author publication. I have presented my master’s thesis at the MENA region’s largest Arab Security Conference and am currently peer-reviewing for two journals and one conference. 
