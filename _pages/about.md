@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-**About me:**\
+**About me:**
 
 I am an information security specialist with over four years of diverse experience in both industry and academia, working on multiple projects with different clients.
 
