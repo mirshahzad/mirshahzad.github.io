@@ -4,7 +4,11 @@ title: "Work Profile"
 permalink: /workprofile/
 author_profile: true
 ---
-I have over three years of mixed research and industry experience in information security. I have worked on several research projects with different professors, and I also served as an Incharge Data Source Unit at the National Assembly Secretariat. Additionally, I am a Top Rated on Upwork, and I have been involved working with a Senior Cybersecurity Consultant in the UK on different risk assessment projects on a remote basis.
+
+I am an information security specialist with over four years of diverse experience in both industry and academia, which has allowed me to work on a variety of projects for different clients. As a freelancer on platforms like Upwork (Top-Rated) and Fiverr (Level-1), I have successfully delivered cybersecurity solutions across multiple domains, including cryptography, privacy, forensics, risk analysis, security compliance, and cybersecurity roadmaps for companies. My work is complemented by my role as a Risk Analyst, where I collaborate with a UK-based Senior Cybersecurity Consultant to remotely safeguard the operations of a renowned Scottish court.
+
+Previously, I led the Data Source Unit at the National Assembly of Pakistan from 2022 to 2024, managing projects in data security, innovation, and analysis, while also guiding junior staff. This role, combined with my work as a Cybersecurity Specialist and Researcher for the US-based start-up Temple Logiq, where I developed a comprehensive security roadmap, has enriched my expertise and fueled my passion for advancing cybersecurity practices.
+
 
 1 - INFORMATION SECURITY SPECIALIST
 ---
@@ -20,7 +24,7 @@ Location: Remote
 
 2 - INCHARGE DATA SOURCE UNIT
 ---
-Nov 2022 – Present \
+Nov 2022 – Sep 2024 \
 Location: National Assembly, Islamabad, Pakistan\
 **Technical responsibilities:**
 - Collect data and identify data sources
