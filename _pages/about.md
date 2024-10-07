@@ -24,8 +24,8 @@ In industry, I am a freelancer on Upwork (I’m Top-Rated on Upwork) and Fiverr 
 
 Current Activities:
 ---
-**Self Development**
+**Self Development and contributions**
 - Preparing for CompTIA Security + 
 - Reading Book "The Idiot" by Fyodor Dostovesky
-- Reading Book "The General of The Dead Army" by Ismail Kadare
+- Reading Book "One Hundred Years of Solitude" by Gabriel García Márquez
 - Voluntarily mentoring security students, and reviewing their portfolio website and resume to grow professionally.
