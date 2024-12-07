@@ -8,7 +8,7 @@ redirect_from:
 ---
 **About me:**
 
-I am an Information Security Specialist with 4+ years of dedicated hands-on experience in cybersecurity and 40+ successfully delivered projects for diverse clients across the globe. I’ve had the privilege to work with diverse organizations, from government agencies and healthcare giants to tech-forward enterprises, each with their own security challenges & goals. Currently, I am working as a freelancer on Upwork (Top-Rated on Upwork), and Fiverr (Level-1).
+I am an Information Security Specialist with **4+ years of dedicated hands-on experience** in cybersecurity and **40+ successfully delivered projects** for diverse clients across the globe. I’ve had the privilege to work with diverse organizations, from government agencies and healthcare giants to tech-forward enterprises, each with their own security challenges & goals. Currently, I am working as a freelancer on Upwork (**Top-Rated on Upwork**), and Fiverr (Level-1).
 
 I’m passionate about bringing strong, strategic, and actionable cybersecurity solutions to the table, ensuring your data and systems remain protected against today’s ever-evolving threats.
 
