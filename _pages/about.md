@@ -28,7 +28,7 @@ Current Activities:
 ---
 **Self Development and contributions**
 - Preparing for CompTIA Security + 
-- Reading Book "The Sorrows of Young Werther" by Johann Wolfgang von Goethe
+- Reading Book "The Sun Also Rises" by Ernest Hemingway
 - Voluntarily mentoring security students, and reviewing their portfolio website and resume to grow professionally.
 
 
