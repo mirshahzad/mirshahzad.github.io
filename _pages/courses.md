@@ -6,6 +6,8 @@ author_profile: true
 ---
 I have attended different courses, the details of the courses are available below:
 
+1. **Understanding the EU Cyber Resilience Act CRA LFEL1001** | The Linux Foundation 
+(April 2025)
 1. **Digital Forensics Essentials (DFE)** | Codered from EC-Council 
 (July 2023)
 2. **Ethical Hacking Essentials (EHE)** | Codered from EC-Council 
