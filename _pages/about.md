@@ -41,14 +41,14 @@ I am a **Cybersecurity Consultant** with **5+ years** of hands-on experience and
 
 💼 How I Can Help You:
 ---
-◉ Security consulting and risk assessments: Identify vulnerabilities, assess business risk, and implement tailored mitigation strategies <br>
-◉ Digital forensic investigations: Analyze compromised systems, devices, or networks to uncover breach sources, data loss, and recovery paths. <br>
-◉ Blockchain & crypto development and audits: Design and develop custom tokens (ERC/BEP-20), audit smart contracts, and trace crypto transactions. <br>
-◉ Security policies, strategy, and compliance framework design: Create or review documentation aligned with ISO, NIST, GDPR, HIPAA, PCI-DSS, and more. <br>
-◉ Advisory roles for secure digital product launches: Guide secure system architecture, compliance planning, and go-to-market security. <br>
-◉ Penetration testing and vulnerability management: Perform ethical hacking, threat modeling, and deliver detailed vulnerability reports. <br>
-◉ Security-focused technical writing and content creation: Develop security documentation, training materials, books, blogs, and certification practice questions. <br>
-◉ Cybersecurity training and course development: Create hands-on tutorials and educational content for security awareness, and domain knowledge. <br>
+◉ **Security consulting and risk assessments:** Identify vulnerabilities, assess business risk, and implement tailored mitigation strategies <br>
+◉ **Digital forensic investigations:** Analyze compromised systems, devices, or networks to uncover breach sources, data loss, and recovery paths. <br>
+◉ **Blockchain & crypto development and audits:** Design and develop custom tokens (ERC/BEP-20), audit smart contracts, and trace crypto transactions. <br>
+◉ **Security policies, strategy, and compliance framework design:** Create or review documentation aligned with ISO, NIST, GDPR, HIPAA, PCI-DSS, and more. <br>
+◉ **Advisory roles for secure digital product launches:** Guide secure system architecture, compliance planning, and go-to-market security. <br>
+◉ **Penetration testing and vulnerability management:** Perform ethical hacking, threat modeling, and deliver detailed vulnerability reports. <br>
+◉ **Security-focused technical writing and content creation:** Develop security documentation, training materials, books, blogs, and certification practice questions. <br>
+◉ **Cybersecurity training and course development:** Create hands-on tutorials and educational content for security awareness, and domain knowledge. <br>
 ◉ I am available for Talks, Semiars, Conferences, and Security Events.
 
 Current Activities:
