@@ -11,7 +11,8 @@ I am a **Cybersecurity Consultant** with **5+ years** of hands-on experience and
 1 - Cybersecurity Consultant
 ---
 May 2020 - Present \
-Location: Remote \
+Location: Remote 
+
 I work globally as a Cybersecurity Consultant, delivering end-to-end security solutions to clients across various industries—including enterprises, SMEs, startups, and government agencies. With over 87 successfully completed projects, I provide tailored cybersecurity services that span technical implementation, strategic advisory, and compliance support.
 
 **Roles & Responsibilities:**
@@ -30,7 +31,7 @@ I work globally as a Cybersecurity Consultant, delivering end-to-end security so
 2 - INCHARGE DATA SOURCE UNIT
 ---
 Dec 2022 – Sep 2024 \
-Location: National Assembly, Islamabad, Pakistan\
+Location: National Assembly, Islamabad, Pakistan
 
 **Technical responsibilities:**
 - Collect data and identify data sources
@@ -56,7 +57,7 @@ Location: National Assembly, Islamabad, Pakistan\
 3 - TRAINEE
 ---
 Nov 2019 – Mar 2020 \
-Location: TS Solution, Saint Petersburg, Russia \
+Location: TS Solution, Saint Petersburg, Russia 
 
 **Job Description:**
 - Monitoring logs for security analysis by using Elasticsearch stack with Centos 8 Linux distribution system.
@@ -72,7 +73,7 @@ Location: TS Solution, Saint Petersburg, Russia \
 4 - TECHNICAL INTERN
 ---
 Sep 2019 – Jan 2020 \
-Location: ITMO University, Saint Petersburg, Russia \
+Location: ITMO University, Saint Petersburg, Russia 
 
 **Job Description:**
 - Installation and configuration of VMware servers Creation of Virtual Machines
