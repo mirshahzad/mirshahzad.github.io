@@ -12,9 +12,16 @@ I am a **Cybersecurity Consultant** with **5+ years** of hands-on experience and
 ---
 May 2020 - Present \
 Location: Remote 
-- I have been involved as a Risk Analyst (remotely) with a Sr. Cybersecurity Consultant (UK-based) on various risk management projects.
-- Furthermore, I am engaged working as a Cybersecurity Consultant with different organizations, and a freelancer on Upwork and Fiverr (I’m Top-Rated on Upwork).
-- I have worked as a Cybersecurity Specialist and a Researcher at Temple Logiq (a US-based startup) for one year.
+I work globally as a Cybersecurity Consultant, delivering end-to-end security solutions to clients across various industries—including enterprises, SMEs, startups, and government agencies. With over 87 successfully completed projects, I provide tailored cybersecurity services that span technical implementation, strategic advisory, and compliance support.
+---
+Roles & Responsibilities:
+- Conduct penetration testing, vulnerability assessments, and risk analysis for web applications, cloud systems, and enterprise environments.
+- Perform digital forensic investigations, including recovery and analysis of compromised data from systems, mobile devices, cloud accounts, and USB logs.
+- Develop and audit blockchain solutions—including ERC/BEP-20 token design, smart contract audits, and transaction tracing.
+- Create and review cybersecurity policies, frameworks, and documentation in line with standards like ISO/IEC 27001, GDPR, HIPAA, PCI-DSS, and the Cyber Resilience Act.
+- Design and deliver security playbooks, training materials, certification content (CCSP, CISSP), and technical documentation for security teams and professionals.
+- Collaborate closely with clients to ensure long-term security posture, regulatory compliance, and effective incident response strategies.
+- Work with security and cloud tools such as Microsoft Defender, Splunk, Azure, AWS, Oracle Cloud, FTK Imager, and Wireshark.
 
 [Upwork profile](https://www.upwork.com/freelancers/mirshahzad){:target="_blank"} |
  [Fiverr profile](https://www.fiverr.com/mirshahzad007){:target="_blank"}
