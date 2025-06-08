@@ -5,17 +5,15 @@ permalink: /workprofile/
 author_profile: true
 ---
 
-I am an information security specialist with over four years of diverse experience in both industry and academia, which has allowed me to work on a variety of projects for different clients. As a freelancer on platforms like Upwork (Top-Rated) and Fiverr (Level-1), I have successfully delivered cybersecurity solutions across multiple domains, including cryptography, privacy, forensics, risk analysis, security compliance, and cybersecurity roadmaps for companies. My work is complemented by my role as a Risk Analyst, where I collaborate with a UK-based Senior Cybersecurity Consultant to remotely safeguard the operations of a renowned Scottish court.
-
-Previously, I led the Data Source Unit at the National Assembly of Pakistan from 2022 to 2024, managing projects in data security, innovation, and analysis, while also guiding junior staff. This role, combined with my work as a Cybersecurity Specialist and Researcher for the US-based start-up Temple Logiq, where I developed a comprehensive security roadmap, has enriched my expertise and fueled my passion for advancing cybersecurity practices.
+I am a **Cybersecurity Consultant** with **5+ years** of hands-on experience and **87+ successfully completed projects** in cybersecurity, digital forensics, blockchain development, curriculum & course creation, compliance reviews, and strategic advisory for clients across the globe — including enterprises, SMEs, government agencies, startups, and individuals. I deliver solutions that combine deep technical skills with high-level strategic insight. I am a **Top-Rated freelancer on Upwork** and a Level-1 Seller on Fiverr.
 
 
-1 - INFORMATION SECURITY SPECIALIST
+1 - Cybersecurity Consultant
 ---
 May 2020 - Present \
 Location: Remote 
 - I have been involved as a Risk Analyst (remotely) with a Sr. Cybersecurity Consultant (UK-based) on various risk management projects.
-- Furthermore, I am engaged working as an Information Security Specialist with different organizations, and a freelancer on Upwork and Fiverr (I’m Top-Rated on Upwork).
+- Furthermore, I am engaged working as a Cybersecurity Consultant with different organizations, and a freelancer on Upwork and Fiverr (I’m Top-Rated on Upwork).
 - I have worked as a Cybersecurity Specialist and a Researcher at Temple Logiq (a US-based startup) for one year.
 
 [Upwork profile](https://www.upwork.com/freelancers/mirshahzad){:target="_blank"} |

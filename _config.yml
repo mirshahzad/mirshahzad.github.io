@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Shahzad Ahmed's Portfolio"
+title                    : "Shahzad A. Portfolio"
 title_separator          : "-"
 name                     : &name "Shahzad Ahmed"
-description              : &description "An InfoSec Specialist"
+description              : &description "A Cybersecurity Consultant"
 url                      : https://mirshahzad.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mirshahzad/mirshahzad.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Shahzad A."
   pronouns         : # example: "she/her"  
-  bio              : "Information Security Specialist"
+  bio              : "Cybersecurity Consultant"
   location         : "Islamabad, Pakistan"
   employer         : "Remote"
   uri              : # URL
