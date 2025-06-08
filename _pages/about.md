@@ -20,7 +20,7 @@ I am a **Cybersecurity Consultant** with **5+ years** of hands-on experience and
 ✅ I have consulted and worked closely with the clients to implement and uphold international security standards, like ISO/IEC 27001:2022, ISO/IEC 27001:2013, ISO 27701, ISO/IEC 27018, ISO 15489, ISO 22301, ISO 27002, ISO/IEC 42001:2023, Cyber Resilience Act 2024, GDPR, HIPAA, and PCI-DSS, establishing a robust foundation for long-term compliance and security. <br>
 ✅ I led the Data Source Unit of the National Assembly of Pakistan, where I developed and enforced strict security protocols and mentored junior cybersecurity professionals, ensuring the safe handling of government data and continuity of services.
 
-💡🔒 Domains Covered:
+💡🔒 Domains I Cover:
 ---
 ◉ Cybersecurity & Risk Management <br>
 ◉ Digital Forensics & Incident Response <br>
@@ -30,7 +30,7 @@ I am a **Cybersecurity Consultant** with **5+ years** of hands-on experience and
 ◉ Penetration Testing & Vulnerability Assessment <br>
 ◉ Technical Writing & Cybersecurity Training
 
-🛠 Tools & Platforms:
+🛠 Tools & Platforms I use:
 ---
 ◉ Cloud & Infrastructure: Microsoft Azure, AWS, Oracle Cloud <br>
 ◉ Security Tools: Microsoft Defender, Wireshark, Burp Suite, Splunk, SIEM <br>
@@ -51,8 +51,6 @@ I am a **Cybersecurity Consultant** with **5+ years** of hands-on experience and
 ◉ Cybersecurity training and course development: Create hands-on tutorials and educational content for security awareness, and domain knowledge. <br>
 ◉ I am available for Talks, Semiars, Conferences, and Security Events.
 
-
-
 Current Activities:
 ---
 **Self Development and contributions**
@@ -60,5 +58,5 @@ Current Activities:
 - Reading Book "Andheri Rat Ke Musafir" by Naseem Hijazi
 - Voluntarily mentoring security students, reviewing their portfolio website & resume, and help them to grow professionally.
 
-
+----
 **Let's secure your systems and build trust in your tech. 🤝**
