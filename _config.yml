@@ -12,7 +12,7 @@ title                    : "Shahzad A. Portfolio"
 title_separator          : "-"
 name                     : &name "Shahzad Ahmed"
 description              : &description "A Cybersecurity Consultant"
-url                      : https://mirshahzad.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://mirshahzad.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mirshahzad/mirshahzad.github.io"
 
@@ -262,7 +262,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comment: true
+      comments: true
   # _talks
   - scope:
       path: ""
