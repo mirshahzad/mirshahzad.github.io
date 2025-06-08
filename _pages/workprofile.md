@@ -11,10 +11,10 @@ I am a **Cybersecurity Consultant** with **5+ years** of hands-on experience and
 1 - Cybersecurity Consultant
 ---
 May 2020 - Present \
-Location: Remote 
+Location: Remote \
 I work globally as a Cybersecurity Consultant, delivering end-to-end security solutions to clients across various industries—including enterprises, SMEs, startups, and government agencies. With over 87 successfully completed projects, I provide tailored cybersecurity services that span technical implementation, strategic advisory, and compliance support.
----
-Roles & Responsibilities:
+
+**Roles & Responsibilities:**
 - Conduct penetration testing, vulnerability assessments, and risk analysis for web applications, cloud systems, and enterprise environments.
 - Perform digital forensic investigations, including recovery and analysis of compromised data from systems, mobile devices, cloud accounts, and USB logs.
 - Develop and audit blockchain solutions—including ERC/BEP-20 token design, smart contract audits, and transaction tracing.
@@ -31,6 +31,7 @@ Roles & Responsibilities:
 ---
 Dec 2022 – Sep 2024 \
 Location: National Assembly, Islamabad, Pakistan\
+
 **Technical responsibilities:**
 - Collect data and identify data sources
 - Analyze huge amounts of data, both structured and unstructured
@@ -56,6 +57,7 @@ Location: National Assembly, Islamabad, Pakistan\
 ---
 Nov 2019 – Mar 2020 \
 Location: TS Solution, Saint Petersburg, Russia \
+
 **Job Description:**
 - Monitoring logs for security analysis by using Elasticsearch stack with Centos 8 Linux distribution system.
 - Working on Checkpoint firewall to make the system more secure like endpoint security, and firewall security.
@@ -71,6 +73,7 @@ Location: TS Solution, Saint Petersburg, Russia \
 ---
 Sep 2019 – Jan 2020 \
 Location: ITMO University, Saint Petersburg, Russia \
+
 **Job Description:**
 - Installation and configuration of VMware servers Creation of Virtual Machines
 - Installation of Windows Server 2016
