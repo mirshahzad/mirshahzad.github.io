@@ -8,14 +8,14 @@ redirect_from:
 ---
 **About me:**
 
-I am a **Cybersecurity Consultant** with **5+ years** of hands-on experience and **87+ successfully completed projects** in cybersecurity, digital forensics, blockchain development, curriculum & course creation, compliance reviews, and strategic advisory for clients across the globe — including enterprises, SMEs, government agencies, startups, and individuals. I deliver solutions that combine deep technical skills with high-level strategic insight. I am a **Top-Rated freelancer on Upwork** and a Level-1 Seller on Fiverr.
+I am a **Cybersecurity Consultant** with **5+ years** of hands-on experience and **107+ successfully completed projects** in cybersecurity, digital forensics, blockchain development, curriculum & course creation, compliance reviews, and strategic advisory for clients across the globe — including enterprises, SMEs, government agencies, startups, and individuals. I deliver solutions that combine deep technical skills with high-level strategic insight. I am a **Top-Rated freelancer on Upwork** and a Level-1 Seller on Fiverr.
 
 📁 Key Highlights | Major Projects:
 ---
-✅ I have reviewed more than 22 different types of security documents, such as AOD, MLD, HLD, and security whitepapers for different types of tools, platforms and software, including share drive, decommission, Azure AI Document Intelligence, Azure Form Recognizer, Azure Event Grid, Single Page Application, Micro-front refactoring, notification shared services, .NET 6 framework, Endpoint Management, PDF Embed, SaaS High-level Security, assessment Adobe Document Cloud, iTrent system, SD-WAN, Software assessment on Oracle ADF Desktop Integration, Software assessment on Oracle File Based Data Import, Software assessment on Oracle Smart View, and implementing Microsfot Teams as Telephony. <br>
-✅ I have created security playbooks on different topics such as; phishing security incident response, Unlicensed software detection and removal, DDoS Security incident, Malware Security Incident, API & Zero Day, New User Created, and Privilege Access Management for a software company who works as a global mobility platform. <br>
-✅ I have completed 17+ digital forensics projects, including data recovery, and investigations on email/mobile investigations, hacked systems, and Windows event log analysis. <br>
-✅ I have developed 3+ custom crypto coins, including Carbon Credit Coin, and others based on clients specifications. <br>
+✅ I have **reviewed more than 22 different types of security documents**, such as AOD, MLD, HLD, and security whitepapers for different types of tools, platforms and software, including share drive, decommission, Azure AI Document Intelligence, Azure Form Recognizer, Azure Event Grid, Single Page Application, Micro-front refactoring, notification shared services, .NET 6 framework, Endpoint Management, PDF Embed, SaaS High-level Security, assessment Adobe Document Cloud, iTrent system, SD-WAN, Software assessment on Oracle ADF Desktop Integration, Software assessment on Oracle File Based Data Import, Software assessment on Oracle Smart View, and implementing Microsfot Teams as Telephony. <br>
+✅ I have **created more than 17 security documents**, including playbooks, SOPs, MDM policy and others on different topics such as; phishing security incident response, Unlicensed software detection and removal, DDoS Security incident, Malware Security Incident, API & Zero Day, New User Created, and Privilege Access Management for a software company who works as a global mobility platform. <br>
+✅ I have **completed 17+ digital forensics investigations**, including data recovery, and investigations on email/mobile investigations, hacked systems, and Windows event log analysis. <br>
+✅ I have **developed 3+ custom crypto coins**, including Carbon Credit Coin, and others based on clients specifications. <br>
 ✅ I have developed a strategic security framework for Mulago Specialized Women and Neonatal Hospital - Uganda's largest hospital - ensuring patient data protection and regulator compliance with healthcare standards. <br>
 ✅ I have consulted and worked closely with the clients to implement and uphold international security standards, like ISO/IEC 27001:2022, ISO/IEC 27001:2013, ISO 27701, ISO/IEC 27018, ISO 15489, ISO 22301, ISO 27002, ISO/IEC 42001:2023, Cyber Resilience Act 2024, GDPR, HIPAA, and PCI-DSS, establishing a robust foundation for long-term compliance and security. <br>
 ✅ I led the Data Source Unit of the National Assembly of Pakistan, where I developed and enforced strict security protocols and mentored junior cybersecurity professionals, ensuring the safe handling of government data and continuity of services.
@@ -55,7 +55,7 @@ Current Activities:
 ---
 **Self Development and contributions**
 - Preparing for CompTIA Security + 
-- Reading Book "Andheri Rat Ke Musafir" by Naseem Hijazi
+- Reading Book "Crucial Conversations (third edition)" by Joseph Grenny - Kerry Patterson - Ron McMillan - Al Switzler - Emily Gregory
 - Voluntarily mentoring security students, reviewing their portfolio website & resume, and help them to grow professionally.
 
 ----
