@@ -5,7 +5,7 @@ permalink: /workprofile/
 author_profile: true
 ---
 
-I am a **Cybersecurity Consultant** with **5+ years** of hands-on experience and **107+ successfully completed projects** in cybersecurity, digital forensics, blockchain development, curriculum & course creation, compliance reviews, and strategic advisory for clients across the globe — including enterprises, SMEs, government agencies, startups, and individuals. I deliver solutions that combine deep technical skills with high-level strategic insight. I am a **Top-Rated freelancer on Upwork** and a Level-1 Seller on Fiverr.
+I am a **Cybersecurity Consultant** with **5+ years** of hands-on experience and **107+ successfully completed projects** in cybersecurity, digital forensics, blockchain development, curriculum & course creation, compliance reviews, and strategic advisory for clients across the globe — including enterprises, SMEs, government agencies, startups, and individuals. I deliver solutions that combine deep technical skills with high-level strategic insight. I am a **Top-Rated freelancer on Upwork** and a Level-2 Seller on Fiverr.
 
 
 1 - Cybersecurity Consultant
@@ -13,7 +13,7 @@ I am a **Cybersecurity Consultant** with **5+ years** of hands-on experience and
 May 2020 - Present \
 Location: Remote 
 
-I work globally as a Cybersecurity Consultant, delivering end-to-end security solutions to clients across various industries—including enterprises, SMEs, startups, and government agencies. With over 87 successfully completed projects, I provide tailored cybersecurity services that span technical implementation, strategic advisory, and compliance support.
+I work globally as a Cybersecurity Consultant, delivering end-to-end security solutions to clients across various industries—including enterprises, SMEs, startups, and government agencies. With over 107 successfully completed projects, I provide tailored cybersecurity services that span technical implementation, strategic advisory, and compliance support.
 
 **Roles & Responsibilities:**
 - Conduct penetration testing, vulnerability assessments, and risk analysis for web applications, cloud systems, and enterprise environments.

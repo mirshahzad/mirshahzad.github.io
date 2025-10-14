@@ -8,7 +8,7 @@ redirect_from:
 ---
 **About me:**
 
-I am a **Cybersecurity Consultant** with **5+ years** of hands-on experience and **107+ successfully completed projects** in cybersecurity, digital forensics, blockchain development, curriculum & course creation, compliance reviews, and strategic advisory for clients across the globe — including enterprises, SMEs, government agencies, startups, and individuals. I deliver solutions that combine deep technical skills with high-level strategic insight. I am a **Top-Rated freelancer on Upwork** and a Level-1 Seller on Fiverr.
+I am a **Cybersecurity Consultant** with **5+ years** of hands-on experience and **107+ successfully completed projects** in cybersecurity, digital forensics, blockchain development, curriculum & course creation, compliance reviews, and strategic advisory for clients across the globe — including enterprises, SMEs, government agencies, startups, and individuals. I deliver solutions that combine deep technical skills with high-level strategic insight. I am a **Top-Rated freelancer on Upwork** and a Level-2 Seller on Fiverr.
 
 📁 Key Highlights | Major Projects:
 ---
@@ -54,8 +54,9 @@ I am a **Cybersecurity Consultant** with **5+ years** of hands-on experience and
 Current Activities:
 ---
 **Self Development and contributions**
+- Preparing for AZ500 Certification
 - Preparing for CompTIA Security + 
-- Reading Book "Crucial Conversations (third edition)" by Joseph Grenny - Kerry Patterson - Ron McMillan - Al Switzler - Emily Gregory
+- Reading Book "Father Goriot" by Honore de Balzac - October 2025
 - Voluntarily mentoring security students, reviewing their portfolio website & resume, and help them to grow professionally.
 
 ----
