@@ -51,4 +51,4 @@ PUBLICATIONS
 1. **Comparative Analysis of Cryptographic Algorithms in Context of Communication: A Systematic Review** \
 **Authors:** Shahzad Ahmed, Tauseef Ahmed \
 **Journal:** International Journal of Scientific and Research Publications (ISSN 2250-3153), Volume 12, Issue 7, July 2022 \
-[Read Paper](https://repository.uel.ac.uk/download/77a5c2aca141803bb1e052b72465ac4ef9461713ce37b97d7d963a7c1e599293/597763/ijsrp-p12720.pdf){:target="_blank"}
+[Read Paper](https://www.researchgate.net/publication/362235088_Comparative_Analysis_of_Cryptographic_Algorithms_in_Context_of_Communication_A_Systematic_Review?_tp=eyJjb250ZXh0Ijp7InBhZ2UiOiJwcm9maWxlIiwicHJldmlvdXNQYWdlIjoiaG9tZSIsInBvc2l0aW9uIjoicGFnZUNvbnRlbnQifX0){:target="_blank"}
