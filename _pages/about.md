@@ -22,13 +22,14 @@ I am a **Cybersecurity Consultant** with **5+ years** of hands-on experience and
 
 💡🔒 Domains I Cover:
 ---
-◉ Cybersecurity & Risk Management <br>
-◉ Digital Forensics & Incident Response <br>
-◉ Blockchain Security & Token Development <br>
-◉ Secure Software & Cloud Architecture <br>
 ◉ Security Policy, Frameworks, and Compliance <br>
+◉ Cybersecurity & Risk Management <br>
+◉ Strategic Advisory — Smart City, BDM, IoT, TPRM <br>
+◉ Digital Forensics & Incident Response <br>
+◉ Blockchain & Crypto Security <br>
+◉ Cloud Security & Architecture <br>
 ◉ Penetration Testing & Vulnerability Assessment <br>
-◉ Technical Writing & Cybersecurity Training
+◉ Security Training & Course Development
 
 🛠 Tools & Platforms I use:
 ---
@@ -54,8 +55,6 @@ I am a **Cybersecurity Consultant** with **5+ years** of hands-on experience and
 Current Activities:
 ---
 **Self Development and contributions**
-- Preparing for AZ500 Certification
-- Preparing for CompTIA Security + 
 - Reading Book "Father Goriot" by Honore de Balzac - October 2025
 - Voluntarily mentoring security students, reviewing their portfolio website & resume, and help them to grow professionally.
 
