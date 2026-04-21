@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Shahzad Ahmed — Cybersecurity Consultant & Virtual CISO. ISO 27001 · SOC 2 · GRC · Cloud Security · Digital Forensics. 60+ global engagements.">
+  <title>Shahzad Ahmed — vCISO & Cybersecurity Consultant</title>
+  <link rel="stylesheet" href="assets/css/design.css">
+  <link rel="stylesheet" href="assets/css/layout.css">
+  <link rel="stylesheet" href="assets/css/components.css">
+  <style>
+    /* Homepage-only styles */
+    .hero{min-height:100vh;display:flex;flex-direction:column;justify-content:center;padding:calc(var(--nav-h) + var(--s16)) 0 var(--s16);position:relative;overflow:hidden}
+    #dot-grid{position:absolute;inset:0;width:100%;height:100%;pointer-events:none}
+    .hero__inner{position:relative;z-index:1}
+    .hero h1{max-width:840px;margin-bottom:var(--s5)}
+    .hero h1 em{font-style:italic;color:var(--accent-hi)}
+    .hero__sub{font-size:var(--tx-lg);color:var(--t2);max-width:540px;margin-bottom:var(--s8);font-weight:300;line-height:1.75}
+    .hero__actions{display:flex;gap:var(--s2);flex-wrap:wrap}
+    .hero__hint{position:absolute;bottom:var(--s6);left:50%;transform:translateX(-50%);z-index:1;display:flex;flex-direction:column;align-items:center;gap:var(--s1);animation:hint 2.5s ease-in-out infinite}
+    .hero__hint-line{width:1px;height:40px;background:linear-gradient(to bottom,var(--t2),transparent)}
+    .hero__hint span{font-size:.65rem;font-weight:500;letter-spacing:.15em;text-transform:uppercase;color:var(--t3)}
+    @keyframes hint{0%,100%{opacity:.3;transform:translateX(-50%) translateY(0)}50%{opacity:.6;transform:translateX(-50%) translateY(5px)}}
+    .about-badges{display:flex;flex-wrap:wrap;gap:var(--s2);margin-top:var(--s4)}
+    .cred-stack{display:flex;flex-direction:column;gap:var(--s2)}
+    @media(max-width:600px){.hero__actions{flex-direction:column}}
+  </style>
+</head>
+<body>
+
+<!-- Nav injected by components.js -->
+<div id="nav-mount"></div>
+
+<!-- ── HERO ──────────────────────────────────────────────────────── -->
+<section class="hero">
+  <canvas id="dot-grid" aria-hidden="true"></canvas>
+  <div class="hero__inner wrap">
+    <p class="lbl rv">Virtual CISO &amp; Cybersecurity Consultant</p>
+    <h1 class="rv d1">Building security programs<br>that <em>nations trust.</em></h1>
+    <p class="hero__sub rv d2">
+      Five years. Three continents. <strong>60+ engagements</strong> across government,
+      healthcare, enterprise, and fintech — building programs that satisfy regulators,
+      protect operations, and hold under pressure.
+    </p>
+    <div class="hero__actions rv d3">
+      <a href="work-with-me.html" class="btn btn-primary">Work With Me</a>
+      <a href="projects.html"     class="btn btn-secondary">View Projects</a>
+    </div>
+  </div>
+  <div class="hero__hint" aria-hidden="true">
+    <div class="hero__hint-line"></div>
+    <span>Scroll</span>
+  </div>
+</section>
+
+<!-- ── CLIENT STRIP ───────────────────────────────────────────────── -->
+<div class="client-strip">
+  <p class="client-strip__lbl">Trusted across three continents</p>
+  <div class="client-strip__row">
+    <!--<span class="client-pill">Scottish Courts &amp; Tribunals Service</span>-->
+    <span class="client-pill">National Assembly of Pakistan</span>
+    <span class="client-pill">World Monuments Fund</span>
+    <span class="client-pill">NewVest — New York</span>
+    <span class="client-pill">VLBPO Limited</span>
+    <span class="client-pill">Mulago Hospital — Uganda</span>
+    <span class="client-pill">Travelandz</span>
+    <span class="client-pill">Learnersmix</span>
+    <span class="client-pill">Naijaville</span>
+    <!--<span class="client-pill">EasyPark / Arrive</span>-->
+  </div>
+</div>
+
+<!-- ── STATS ──────────────────────────────────────────────────────── -->
+<div class="stat-strip">
+  <div class="stat-strip__grid">
+    <div class="stat-strip__item rv"><div class="stat-num"><em data-count="60" data-suffix="+">60+</em></div><div class="stat-lbl">Client<br>Engagements</div></div>
+    <div class="stat-strip__item rv d1"><div class="stat-num"><em data-count="80" data-suffix="+">80+</em></div><div class="stat-lbl">Security<br>Documents</div></div>
+    <div class="stat-strip__item rv d2"><div class="stat-num"><em data-count="19" data-suffix="+">19+</em></div><div class="stat-lbl">Forensic<br>Investigations</div></div>
+    <div class="stat-strip__item rv d3"><div class="stat-num"><em>96%</em></div><div class="stat-lbl">ISO+SOC 2<br>Score Achieved</div></div>
+    <div class="stat-strip__item rv d4"><div class="stat-num"><em data-count="13" data-suffix="+">13+</em></div><div class="stat-lbl">Courses<br>Developed</div></div>
+    <div class="stat-strip__item rv"><div class="stat-num"><em data-count="5" data-suffix="+">5+</em></div><div class="stat-lbl">Years<br>Experience</div></div>
+  </div>
+</div>
+
+<!-- ── SECURITY FACT TICKER ───────────────────────────────────────── -->
+<section class="sec-sm sec-dark">
+  <div class="wrap">
+    <div class="ticker-wrap rv" id="sec-ticker">
+      <p class="ticker-label">Security Reality Check</p>
+      <p class="ticker-num"></p>
+      <p class="ticker-text"></p>
+      <p class="ticker-source"></p>
+      <div class="ticker-dots">
+        <div class="ticker-dot"></div>
+        <div class="ticker-dot"></div>
+        <div class="ticker-dot"></div>
+        <div class="ticker-dot"></div>
+        <div class="ticker-dot"></div>
+      </div>
+    </div>
+    <div style="text-align:center;">
+      <p class="lbl rv" style="justify-content:center;">Why this matters</p>
+      <h2 class="rv d1" style="margin-bottom:var(--s2);">The cost of getting security wrong is measured in millions.</h2>
+      <p class="rv d2" style="max-width:540px;margin:0 auto var(--s6);">The organizations I work with can't afford to get it wrong. Neither can yours.</p>
+      <a href="work-with-me.html" class="btn btn-primary rv d3">Let's talk →</a>
+    </div>
+  </div>
+</section>
+
+<!-- ── ABOUT PREVIEW ──────────────────────────────────────────────── -->
+<section class="sec">
+  <div class="wrap">
+    <div class="two-col">
+      <div class="rv">
+        <p class="lbl">About</p>
+        <h2 style="margin-bottom:var(--s5);">Security leadership built on real results</h2>
+        <p>I am a cybersecurity consultant and <strong>Virtual CISO</strong> with 5+ years of international experience. I build security programs that work in the real world — for organizations where compliance, trust, and continuity are non-negotiable.</p>
+        <p>Currently serving as vCISO for an international BPO company, leading simultaneous ISO 27001:2022 and SOC 2 <strong>Type II</strong> certification — driving compliance from near zero to <strong>96%</strong>.</p>
+        <p>I hold an <strong>MSc in Information Security</strong> from ITMO University (4.7/5 GPA), awarded on a Russian Government Scholarship.</p>
+        <div class="about-badges">
+          <span class="badge"><span class="badge-dot"></span>Available Now</span>
+          <span class="badge">Top-Rated · Upwork</span>
+          <span class="badge">Level-2 · Fiverr</span>
+          <span class="badge">MSc InfoSec · ITMO</span>
+        </div>
+        <br>
+        <a href="about.html" class="btn btn-text">Full profile →</a>
+      </div>
+      <div class="cred-stack rv d2">
+        <div class="cred"><div class="cred__title">👤 Virtual CISO — Active Engagement</div><div class="cred__sub">ISO 27001:2022 + SOC 2 Type II · 2% → 96% compliance achieved</div></div>
+        <div class="cred"><div class="cred__title">⭐ Platform Recognition</div><div class="cred__sub">Top-Rated on Upwork · Level-2 Seller on Fiverr · 60+ completed engagements</div></div>
+        <div class="cred"><div class="cred__title">🎓 MSc Information Security</div><div class="cred__sub">ITMO University · 4.7/5 GPA · Russian Government Scholarship · Best Public Speaker Award</div></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ── SERVICES PREVIEW ────────────────────────────────────────────── -->
+<section class="sec sec-dark">
+  <div class="wrap">
+    <div class="sh rv"><p class="lbl">Services</p><h2>What I deliver</h2><p>Six practice areas. Professional-grade work your auditor, board, and team can rely on.</p></div>
+    <div class="svc-grid rv d1">
+      <div class="svc-card"><span class="svc-card__icon">👤</span><div class="svc-card__name">vCISO &amp; Advisory</div><div class="svc-card__desc">Ongoing security leadership — ISMS ownership, certification programs, board advisory, risk strategy.</div><div class="tags"><span class="tag tag-blue">vCISO</span><span class="tag tag-blue">Retainer</span><span class="tag tag-blue">Board Advisory</span></div></div>
+      <div class="svc-card"><span class="svc-card__icon">🔐</span><div class="svc-card__name">GRC &amp; Compliance</div><div class="svc-card__desc">ISO 27001, SOC 2, HIPAA, GDPR, PCI-DSS — full program ownership from gap analysis to audit readiness.</div><div class="tags"><span class="tag tag-blue">ISO 27001</span><span class="tag tag-blue">SOC 2</span><span class="tag tag-blue">HIPAA</span></div></div>
+      <div class="svc-card"><span class="svc-card__icon">☁️</span><div class="svc-card__name">Cloud Security</div><div class="svc-card__desc">Azure &amp; M365 architecture review, Sentinel SIEM deployment, Zero Trust design, IAM hardening.</div><div class="tags"><span class="tag tag-blue">Azure</span><span class="tag tag-blue">Sentinel</span><span class="tag tag-blue">Zero Trust</span></div></div>
+      <div class="svc-card"><span class="svc-card__icon">🔍</span><div class="svc-card__name">Digital Forensics &amp; IR</div><div class="svc-card__desc">19+ investigations — systems, email, mobile, blockchain, memory forensics. Court-ready reports.</div><div class="tags"><span class="tag tag-blue">FTK</span><span class="tag tag-blue">Autopsy</span><span class="tag tag-blue">Volatility</span></div></div>
+      <div class="svc-card"><span class="svc-card__icon">📋</span><div class="svc-card__name">Security Documentation</div><div class="svc-card__desc">80+ documents — policies, SOPs, playbooks, HLD/MLD reviews, risk assessments, whitepapers.</div><div class="tags"><span class="tag tag-blue">Policies</span><span class="tag tag-blue">Playbooks</span><span class="tag tag-blue">HLD/MLD</span></div></div>
+      <div class="svc-card"><span class="svc-card__icon">🎓</span><div class="svc-card__name">Security Training</div><div class="svc-card__desc">13+ courses — OWASP, DevSecOps, AI Red Teaming, Secure Coding, Threat Modeling, TPRM.</div><div class="tags"><span class="tag tag-blue">OWASP</span><span class="tag tag-blue">DevSecOps</span><span class="tag tag-blue">TPRM</span></div></div>
+    </div>
+    <br><br>
+    <a href="services.html" class="btn btn-secondary">All services →</a>
+  </div>
+</section>
+
+<!-- ── PROCESS ─────────────────────────────────────────────────────── -->
+<section class="sec">
+  <div class="wrap">
+    <div class="sh sh-c rv"><p class="lbl" style="justify-content:center;">Process</p><h2>How we work together</h2><p>Simple. Transparent. No surprises.</p></div>
+    <div class="process rv d1">
+      <div class="proc-step"><div class="proc-n">1</div><div class="proc-title">Discovery</div><div class="proc-desc">We discuss your goals, security posture, regulatory obligations, and challenges. No commitment required.</div></div>
+      <div class="proc-step"><div class="proc-n">2</div><div class="proc-title">Scoping</div><div class="proc-desc">I define scope, deliverables, timeline, and investment clearly in writing — before any work begins.</div></div>
+      <div class="proc-step"><div class="proc-n">3</div><div class="proc-title">Engagement</div><div class="proc-desc">Assessments, documentation, architecture reviews, forensics, or vCISO leadership.</div></div>
+      <div class="proc-step"><div class="proc-n">4</div><div class="proc-title">Delivery</div><div class="proc-desc">Professional, actionable deliverables with full handover — policies, reports, or roadmaps.</div></div>
+    </div>
+  </div>
+</section>
+
+<!-- ── CTA ─────────────────────────────────────────────────────────── -->
+<section class="cta-sec">
+  <div class="wrap">
+    <p class="lbl rv" style="justify-content:center;">Available Now</p>
+    <h2 class="rv d1">Let's build something secure.</h2>
+    <p class="sub rv d2">Remote. Global. Immediate availability.</p>
+    <div class="btn-row rv d3">
+      <a href="work-with-me.html" class="btn btn-primary">Work With Me</a>
+      <a href="services.html"     class="btn btn-secondary">View Services</a>
+    </div>
+  </div>
+</section>
+
+<!-- Footer injected by components.js -->
+<div id="footer-mount"></div>
+
+<script src="assets/js/components.js"></script>
+</body>
+</html>

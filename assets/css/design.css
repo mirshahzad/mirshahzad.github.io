@@ -1,0 +1,140 @@
+/* ================================================================
+   DESIGN.CSS
+   ----------------------------------------------------------------
+   ALL design tokens live here.
+   To change a color, font, or spacing — edit ONLY this file.
+   Every other file references these variables.
+   ================================================================ */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:ital,wght@0,700;0,900;1,400&display=swap');
+
+:root {
+  /* ── COLORS ──────────────────────────────────────────────────
+     To rebrand: change these 4 lines only.                      */
+  --bg:        #0B1423;   /* page background                     */
+  --accent:    #3B82F6;   /* primary blue                        */
+  --accent-hi: #60A5FA;   /* lighter blue for text on dark bg    */
+  --success:   #34D399;   /* green — outcomes, checkmarks        */
+
+  /* Derived — do not edit unless rebranding completely */
+  --bg-2:       #0F1C30;
+  --bg-3:       #152540;
+  --bg-4:       #1A2E4F;
+  --border:     rgba(255,255,255,0.08);
+  --border-2:   rgba(255,255,255,0.14);
+  --accent-dim: rgba(59,130,246,0.12);
+  --warn:       #FBBF24;
+  --danger:     #F87171;
+
+  /* Text */
+  --t1: #F1F5F9;   /* headlines, strong */
+  --t2: #94A3B8;   /* body text         */
+  --t3: #64748B;   /* muted, labels     */
+
+  /* ── TYPOGRAPHY ──────────────────────────────────────────────
+     To change fonts: edit only these two lines.                 */
+  --font-sans:  'Inter', system-ui, -apple-system, sans-serif;
+  --font-serif: 'Playfair Display', Georgia, serif;
+
+  /* Type scale */
+  --tx-xs:   0.75rem;
+  --tx-sm:   0.875rem;
+  --tx-base: 1rem;
+  --tx-lg:   1.125rem;
+  --tx-xl:   1.25rem;
+  --tx-2xl:  1.5rem;
+  --tx-3xl:  1.875rem;
+  --tx-4xl:  2.25rem;
+  --tx-hero: clamp(2.8rem, 5.5vw, 5rem);
+
+  /* ── SPACING (8-px grid) ────────────────────────────────────
+     To adjust density: scale these values up or down.          */
+  --s1:  0.5rem;
+  --s2:  1rem;
+  --s3:  1.5rem;
+  --s4:  2rem;
+  --s5:  2.5rem;
+  --s6:  3rem;
+  --s8:  4rem;
+  --s10: 5rem;
+  --s12: 6rem;
+  --s16: 8rem;
+
+  /* Layout */
+  --max-w: 1060px;
+  --nav-h: 64px;
+  --r:     6px;   /* border-radius */
+
+  /* Motion */
+  --ease: cubic-bezier(0.16, 1, 0.3, 1);
+  --t:    200ms;
+}
+
+/* ── RESET ────────────────────────────────────────────────────── */
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+html{font-size:16px;scroll-behavior:smooth;-webkit-text-size-adjust:100%}
+body{font-family:var(--font-sans);font-size:var(--tx-base);background:var(--bg);color:var(--t1);line-height:1.6;-webkit-font-smoothing:antialiased;overflow-x:hidden}
+img,svg{display:block;max-width:100%}
+a{color:inherit;text-decoration:none}
+ul,ol{list-style:none}
+button{cursor:pointer;border:none;background:none;font:inherit}
+::selection{background:var(--accent-dim);color:var(--t1)}
+
+/* ── TYPE ─────────────────────────────────────────────────────── */
+h1{font-family:var(--font-serif);font-size:var(--tx-hero);font-weight:700;line-height:1.08;letter-spacing:-.025em;color:var(--t1)}
+h2{font-family:var(--font-sans);font-size:var(--tx-3xl);font-weight:700;line-height:1.2;letter-spacing:-.01em;color:var(--t1)}
+h3{font-family:var(--font-sans);font-size:var(--tx-xl);font-weight:600;line-height:1.3;color:var(--t1)}
+h4{font-family:var(--font-sans);font-size:var(--tx-base);font-weight:600;color:var(--t1)}
+p{color:var(--t2);line-height:1.75;font-weight:400}
+p+p{margin-top:var(--s3)}
+strong{color:var(--t1);font-weight:600}
+em.hl{font-style:italic;color:var(--accent-hi)}
+
+/* ── LAYOUT ───────────────────────────────────────────────────── */
+.wrap{max-width:var(--max-w);margin:0 auto;padding:0 var(--s4)}
+.sec{padding:var(--s16) 0}
+.sec-sm{padding:var(--s10) 0}
+.sec-dark{background:var(--bg-2)}
+.page{padding-top:var(--nav-h)}
+
+/* ── LABEL (eyebrow) ──────────────────────────────────────────── */
+.lbl{display:inline-flex;align-items:center;gap:.6rem;font-size:var(--tx-xs);font-weight:600;letter-spacing:.1em;text-transform:uppercase;color:var(--accent-hi);margin-bottom:var(--s2)}
+.lbl::before{content:'';width:18px;height:1.5px;background:var(--accent);flex-shrink:0}
+
+/* ── BUTTONS ──────────────────────────────────────────────────── */
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:.5rem;font-family:var(--font-sans);font-size:var(--tx-sm);font-weight:600;letter-spacing:.01em;padding:.625rem 1.5rem;border-radius:var(--r);border:1.5px solid transparent;transition:all var(--t) var(--ease);white-space:nowrap;cursor:pointer}
+.btn-primary{background:var(--accent);color:#fff;border-color:var(--accent)}
+.btn-primary:hover{background:var(--accent-hi);border-color:var(--accent-hi);transform:translateY(-1px);box-shadow:0 4px 16px rgba(59,130,246,.35)}
+.btn-secondary{background:transparent;color:var(--t1);border-color:var(--border-2)}
+.btn-secondary:hover{border-color:rgba(255,255,255,.3);background:rgba(255,255,255,.05);transform:translateY(-1px)}
+.btn-text{background:transparent;color:var(--accent-hi);border:none;padding-left:0;padding-right:0}
+.btn-text:hover{color:var(--t1)}
+
+/* Platform buttons */
+.btn-platform{display:inline-flex;align-items:center;gap:.6rem;font-size:var(--tx-sm);font-weight:600;padding:.65rem 1.4rem;border-radius:var(--r);border:1.5px solid var(--border-2);background:var(--bg-3);color:var(--t1);transition:all var(--t) var(--ease)}
+.btn-platform:hover{border-color:var(--accent);background:var(--accent-dim);transform:translateY(-1px)}
+.btn-platform img,.btn-platform svg{width:18px;height:18px;flex-shrink:0}
+.btn-platform span{font-size:var(--tx-xs);color:var(--t3);margin-left:auto}
+
+/* ── TAGS ─────────────────────────────────────────────────────── */
+.tag{display:inline-block;font-size:var(--tx-xs);font-weight:500;letter-spacing:.03em;padding:.2rem .65rem;border-radius:var(--r);background:var(--bg-3);border:1px solid var(--border);color:var(--t2);transition:all var(--t)}
+.tag-blue{background:var(--accent-dim);border-color:rgba(59,130,246,.25);color:var(--accent-hi)}
+.tags{display:flex;flex-wrap:wrap;gap:.4rem}
+
+/* ── DIVIDER ──────────────────────────────────────────────────── */
+.divider{height:1px;background:var(--border);margin:var(--s6) 0}
+
+/* ── BADGE ────────────────────────────────────────────────────── */
+.badge{display:inline-flex;align-items:center;gap:.4rem;font-size:var(--tx-xs);font-weight:600;color:var(--t2);background:var(--bg-3);border:1px solid var(--border);padding:.3rem .75rem;border-radius:var(--r)}
+.badge-dot{width:6px;height:6px;border-radius:50%;background:var(--success);animation:pulse 2s infinite}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.4}}
+
+/* ── SCROLL REVEAL ────────────────────────────────────────────── */
+.rv{opacity:0;transform:translateY(14px);transition:opacity 480ms var(--ease),transform 480ms var(--ease)}
+.rv.on{opacity:1;transform:none}
+.rv.d1{transition-delay:75ms}.rv.d2{transition-delay:150ms}
+.rv.d3{transition-delay:225ms}.rv.d4{transition-delay:300ms}
+
+/* ── RESPONSIVE ───────────────────────────────────────────────── */
+@media(max-width:768px){.sec{padding:var(--s10) 0}.sec-sm{padding:var(--s8) 0}.wrap{padding:0 var(--s3)}}
+@media(max-width:480px){.wrap{padding:0 var(--s2)}}
